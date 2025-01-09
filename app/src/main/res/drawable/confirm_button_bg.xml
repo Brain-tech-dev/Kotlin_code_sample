@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define the border -->
+    <solid android:color="@android:color/transparent" /> <!-- Optional: fill color inside the border -->
+
+    <!-- Set the corner radius if you want rounded corners -->
+    <corners android:radius="@dimen/_2sdp"/>
+
+    <solid android:color="@color/dark_blue"/>
+</shape>

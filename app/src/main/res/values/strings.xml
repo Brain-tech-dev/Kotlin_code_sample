@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Adambulette</string>
+
+    <!--  Default Setup String's  -->
+    <string name="to_check_your_approval_status_you_need_to_login_again">To check your approval status you need to login again.</string>
+    <string name="are_you_sure_you_want_to_logout_the_app">Are you sure you want to logout the app?</string>
+    <string name="are_you_sure_you_want_to_continue">Are you sure you want to Continue</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_you_want_to_logout">Are You Sure You Want To LogOut</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="do_you_want_to_logout">Do you want to logout</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- App Related Strings -->
+    <string name="company_code">Company Code</string>
+    <string name="username">Username</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="password">Password</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="user_email">User Email</string>
+    <string name="valid_company_code">Please enter the valid Company Code</string>
+    <string name="enter_username">Please enter the username</string>
+    <string name="enter_email_id">Please enter the E-mail</string>
+    <string name="valid_email_id">Please enter the valid E-mail</string>
+    <string name="valid_password">Please enter the valid Password</string>
+    <string name="valid_vehicle_number">Please enter the vehicle Number</string>
+    <string name="please_enter_the_OTP">"Please enter the OTP</string>
+    <string name="please_enter_the_valid_OTP">"Please enter the valid OTP</string>
+    <string name="please_enter_new_password">Please Enter New Password</string>
+    <string name="please_enter_your_email">Please Enter Your Email</string>
+    <string name="please_enter_your_login_details">Please Enter Your Login Details</string>
+    <string name="valid_confirm_password">Please enter Confirm Password</string>
+    <string name="valid_password_and_confirm_password">Password &amp; Confirm Password should be same</string>
+    <string name="login">Login</string>
+    <string name="continue_text">Continue</string>
+    <string name="verify_otp">Verify Otp</string>
+    <string name="resend_otp">Resend Otp</string>
+    <string name="change_password">Change Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
+
+</resources>

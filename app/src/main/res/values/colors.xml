@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="hint_color">#555555</color>
+    <color name="green">#4CAF50</color>
+    <color name="dim_gray">#646464</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#ADAAA9</color>
+    <color name="vampire_gray">#747474</color>
+    <!--#B6B6B6-->
+    <color name="dark_grey">#747474</color>
+    <color name="color_grey">#9b9b9b</color>
+    <color name="dark_blue">#294368</color>
+    <color name="button_color">#EA4436</color>
+    <color name="text_red">#733C15</color>
+    <color name="text_blue">#1E3A61</color>
+    <color name="text_yellow">#4E5102</color>
+    <color name="light_red">#FFE5D4</color>
+    <color name="light_green">#E6FFEA</color>
+    <color name="light_yellow">#FDFED2</color>
+    <color name="light_blue">#E4F0FE</color>
+    <color name="box_color">#F2F2F2</color>
+    <color name="light_grey">#F5F5F5</color>
+    <color name="view_color">#DDDDDD</color>
+    <color name="charcoal_grey">#414141</color>
+    <color name="oslo_grey">#8D8D8D</color>
+
+</resources>
